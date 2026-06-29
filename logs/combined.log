@@ -20,3 +20,7 @@
 {"level":"info","message":"User admin@example.com created successfully","service":"acquistions-api"}
 {"level":"info","message":"User register successfully: admin@example.com","service":"acquistions-api"}
 {"level":"info","message":"::1 - - [29/Jun/2026:12:49:57 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 88 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"User adrian@example.com created successfully","service":"acquistions-api"}
+{"level":"info","message":"User register successfully: adrian@example.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:51:06 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 105 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:53:20 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.54.0\"","service":"acquistions-api"}

@@ -15,3 +15,11 @@ npm i helmet
 npm i morgan
 
 npm i cors cookie-parser
+
+### JWT token
+npm i jsonwebtoken
+
+### zod
+npm i zod
+
+npm i bcrypt

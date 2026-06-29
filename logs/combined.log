@@ -1,2 +1,22 @@
 {"level":"info","message":"hello form Acquistion!","service":"acquistions-api"}
 {"level":"info","message":"::1 - - [28/Jun/2026:11:38:32 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"hello form Acquistion!","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:02:36 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:02:36 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:02:44 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:02:49 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:02:49 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"hello form Acquistion!","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:05:24 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:05:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:05:56 +0000] \"GET /api HTTP/1.1\" 200 40 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:06:08 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:06:21 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:30:29 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:33:13 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:34:04 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"User register successfully: a@b.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:35:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 92 \"-\" \"HTTPie\"","service":"acquistions-api"}
+{"level":"info","message":"User admin@example.com created successfully","service":"acquistions-api"}
+{"level":"info","message":"User register successfully: admin@example.com","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [29/Jun/2026:12:49:57 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 88 \"-\" \"HTTPie\"","service":"acquistions-api"}

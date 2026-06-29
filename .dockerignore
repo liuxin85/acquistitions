@@ -1,0 +1,9 @@
+.git
+.agents
+node_modules
+logs
+.env
+.env.*
+npm-debug.log*
+Dockerfile
+docker-compose.yml

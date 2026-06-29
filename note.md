@@ -23,3 +23,5 @@ npm i jsonwebtoken
 npm i zod
 
 npm i bcrypt
+
+npm i @arcjet/node @arcjet/inspect
